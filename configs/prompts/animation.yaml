@@ -11,4 +11,4 @@ weight_dtype: 'fp16'
 
 test_cases:
   "/content/Siggraph2024/input.jpg":
-    - "/content/Moore-AnimateAnyone/configs/ingerence/pose_videos/openpose_apose.mp4"
+    - "/content/Moore-AnimateAnyone/configs/inference/pose_videos/openpose_apose.mp4"
